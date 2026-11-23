@@ -1,0 +1,9 @@
+{
+  "name": "NontonKuy",
+  "description": "🇮🇩 Indonesian Movie Repository",
+  "iconUrl": "https://ibb.co.com/yG8Tv9L",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/plugins.json"
+  ]
+}
