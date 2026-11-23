@@ -1,9 +1,0 @@
-{
-  "name": "MovieBox Scrape",
-  "description": "MovieBox, MovieBoxHD & Dlidix",
-  "manifestVersion": 1,
-  "iconUrl": "https://ibb.co.com/3YVCQhNX",
-  "pluginLists": [
-    "https://raw.githubusercontent.com/Rennvol/cloudstream-moviebox/builds/plugins.json"
-  ]
-}
