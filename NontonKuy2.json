@@ -1,0 +1,9 @@
+{
+  "name": "NontonKuy2",
+  "description": "🇮🇩 Movie Repository",
+  "manifestVersion": 1,
+  "iconUrl": "https://i.ibb.co.com/2mj2V9X/563515.png",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/ExtremeBoyGG/nonton-indo/builds/plugins.json"
+  ]
+}
