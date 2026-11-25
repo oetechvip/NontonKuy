@@ -1,0 +1,9 @@
+{
+  "name": "NontonKuy x MovieBox",
+  "description": "MovieBox Provider",
+  "manifestVersion": 1,
+  "iconUrl": "https://i.ibb.co.com/3m8QGd5C/images-84.jpg",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Luckez12/Cloudstream-Repo/builds/plugins.json"
+  ]
+}
